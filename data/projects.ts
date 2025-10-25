@@ -5,7 +5,7 @@ export const projects = [
     description:
       "A full-stack platform that makes it easier to find accommodation with synchronized mailing and real-time messaging using Socket.IO.",
     tech: ["React", "TypeScript", "Express", "MongoDB", "Socket.IO", "Tailwind"],
-    link: "https://github.com/yassinebouzid11",
+    link: "https://github.com/yassinebouzid11/location-plateforme",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const projects = [
     description:
       "A Python desktop app that automatically extracts text from images using OCR and enhances it with AI capabilities. Includes Tkinter GUI, OpenRouter API integration, and chatbot assistance.",
     tech: ["Python", "Tkinter", "Tesseract", "Mistral", "OpenRouter"],
-    link: "https://github.com/yassinebouzid11",
+    link: "https://github.com/yassinebouzid11/intelligent-OCR-text-extractor",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const projects = [
     description:
       "A social platform where users can publish posts and communicate with each other. Includes efficient state management with Context API and real-time interactions.",
     tech: ["React", "Firebase", "Spring Boot", "MySQL", "CSS"],
-    link: "https://github.com/yassinebouzid11",
+    link: "https://github.com/yassinebouzid11/social-media-project",
   },
   {
     id: 4,
@@ -29,6 +29,6 @@ export const projects = [
     description:
       "A MERN stack task management application enabling teams to collaborate efficiently with role-based access (user/manager), JWT authentication, Redux state management, and email notifications.",
     tech: ["React", "Node.js", "Express", "MongoDB", "Redux Toolkit", "Tailwind"],
-    link: "https://github.com/yassinebouzid11",
+    link: "https://github.com/yassinebouzid11/TeamTask",
   },
 ]
