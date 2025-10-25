@@ -30,7 +30,7 @@ export default function Contact() {
           </div>
           <div className="space-y-1 w-full">
             <h3 className="text-lg font-semibold">Email</h3>
-            <div className="flex gap-2  items-center ">
+            <div className="flex gap-2 justify-center items-center ">
             <a
               href="mailto:bouzidyassine08@gmail.com"
               className="text-accent hover:underline text-sm font-medium block break-all"
