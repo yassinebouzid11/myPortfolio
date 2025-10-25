@@ -13,8 +13,7 @@ export default function Home() {
         </p>
         <p className="text-base sm:text-lg text-muted-foreground max-w-2xl mx-auto text-balance">
           Driven by curiosity and innovation, I enjoy turning complex problems
-          into elegant and efficient solutions through clean code and creative
-          thinking.
+          into elegant and efficient solutions.
         </p>
       </div>
 
