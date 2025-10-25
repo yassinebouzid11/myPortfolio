@@ -21,7 +21,7 @@ export const projects = [
     description:
       "A social platform where users can publish posts and communicate with each other. Includes efficient state management with Context API and real-time interactions.",
     tech: ["React", "Firebase", "Spring Boot", "MySQL", "CSS"],
-    link: "https://github.com/yassinebouzid11/social-media-project",
+    link: "https://github.com/yassinebouzid11/social-media-springboot-app",
   },
   {
     id: 4,
