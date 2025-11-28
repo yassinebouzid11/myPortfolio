@@ -67,7 +67,29 @@ export default function About() {
           <div>
             <h4 className="font-semibold text-foreground mb-2">AI & Data</h4>
             <div className="flex flex-wrap gap-2">
-              {["TensorFlow", "Keras", "CNN", "NLP", "Pandas", "Matplotlib"].map((skill) => (
+              {["ML","LLM", "NLP","OCR","CNN", "Scikit-learn", "TensorFlow", "Keras", "Pandas", "Matplotlib"].map((skill) => (
+                <span key={skill} className="px-3 py-1 bg-accent/10 text-accent rounded-full text-sm font-medium">
+                  {skill}
+                </span> 
+              ))}
+            </div>
+          </div>
+
+          <div>
+            <h4 className="font-semibold text-foreground mb-2">DevOps & Tools</h4>
+            <div className="flex flex-wrap gap-2">
+              {["Docker", "GitHub Actions"].map((skill) => (
+                <span key={skill} className="px-3 py-1 bg-accent/10 text-accent rounded-full text-sm font-medium">
+                  {skill}
+                </span> 
+              ))}
+            </div>
+          </div>
+
+          <div>
+            <h4 className="font-semibold text-foreground mb-2">Testing & Automation</h4>
+            <div className="flex flex-wrap gap-2">
+              {["Selenium", "Cucumber", "JUnit"].map((skill) => (
                 <span key={skill} className="px-3 py-1 bg-accent/10 text-accent rounded-full text-sm font-medium">
                   {skill}
                 </span> 

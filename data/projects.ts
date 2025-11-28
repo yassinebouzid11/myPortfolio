@@ -4,7 +4,7 @@ export const projects = [
     title: "Colocation and Rental Platform",
     description:
       "A full-stack platform that makes it easier to find accommodation with synchronized mailing and real-time messaging using Socket.IO.",
-    tech: ["React", "TypeScript", "Express", "MongoDB", "Socket.IO", "Tailwind"],
+    tech: ["React", "TypeScript", "Express", "MongoDB", "Socket.IO", "Tailwind","Context API"],
     link: "https://github.com/yassinebouzid11/location-plateforme",
   },
   {
